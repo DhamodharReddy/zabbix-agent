@@ -1,7 +1,7 @@
 ## **Prerequisites**
-_Ubuntu 18.04_
+_Virtual machine with Ubuntu 18.04 installed on it._
 
-_sudo or root previlages_
+_Make sure user have sudo or root previlages._
 
 ## **Install Zabbix Agent**
 ```
