@@ -1,5 +1,6 @@
 ## **Prerequisites**
 _Ubuntu 18.04_
+
 _sudo or root previlages_
 
 ## **Install Zabbix Agent**
